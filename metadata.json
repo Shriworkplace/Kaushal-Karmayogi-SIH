@@ -1,0 +1,6 @@
+{
+  "name": "Kaushal Karmayogi — MoSPI AI Competency & Learning Engine",
+  "description": "AI-enabled competency intelligence, gap analysis, and automated assessment platform complementing iGOT Karmayogi for the Ministry of Statistics & Programme Implementation (MoSPI).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

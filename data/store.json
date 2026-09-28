@@ -1,0 +1,1880 @@
+{
+  "currentUserId": "user-01",
+  "users": [
+    {
+      "id": "user-01",
+      "clerk_id": "clerk_priya_sharma",
+      "name": "Priya Sharma",
+      "email": "priya.sharma@mospi.gov.in",
+      "role": "learner",
+      "department": "NSO",
+      "designation": "Data Analyst",
+      "years_experience": 3,
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80",
+      "created_at": "2026-01-15T09:00:00Z"
+    },
+    {
+      "id": "user-02",
+      "clerk_id": "clerk_rajesh_kumar",
+      "name": "Rajesh Kumar",
+      "email": "rajesh.kumar@mospi.gov.in",
+      "role": "learner",
+      "department": "NSS",
+      "designation": "Field Investigator",
+      "years_experience": 5,
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "created_at": "2026-01-20T10:30:00Z"
+    },
+    {
+      "id": "user-03",
+      "clerk_id": "clerk_sunita_verma",
+      "name": "Sunita Verma",
+      "email": "sunita.verma@mospi.gov.in",
+      "role": "learner",
+      "department": "DPD",
+      "designation": "Statistical Officer",
+      "years_experience": 8,
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&auto=format&fit=crop&q=80",
+      "created_at": "2026-02-01T11:15:00Z"
+    },
+    {
+      "id": "user-04",
+      "clerk_id": "clerk_amit_singh",
+      "name": "Amit Singh",
+      "email": "amit.singh@mospi.gov.in",
+      "role": "learner",
+      "department": "NSS",
+      "designation": "Survey Supervisor",
+      "years_experience": 6,
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80",
+      "created_at": "2026-02-05T08:45:00Z"
+    },
+    {
+      "id": "user-05",
+      "clerk_id": "clerk_deepa_nair",
+      "name": "Deepa Nair",
+      "email": "deepa.nair@mospi.gov.in",
+      "role": "learner",
+      "department": "DES",
+      "designation": "Statistical Officer",
+      "years_experience": 4,
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "created_at": "2026-02-10T14:20:00Z"
+    },
+    {
+      "id": "user-06",
+      "clerk_id": "clerk_vikram_patel",
+      "name": "Vikram Patel",
+      "email": "vikram.patel@mospi.gov.in",
+      "role": "learner",
+      "department": "NSO",
+      "designation": "Data Analyst",
+      "years_experience": 2,
+      "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=150&auto=format&fit=crop&q=80",
+      "created_at": "2026-02-12T16:00:00Z"
+    },
+    {
+      "id": "user-07",
+      "clerk_id": "clerk_ananya_das",
+      "name": "Ananya Das",
+      "email": "ananya.das@mospi.gov.in",
+      "role": "learner",
+      "department": "DES",
+      "designation": "Field Investigator",
+      "years_experience": 3,
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80",
+      "created_at": "2026-02-15T12:00:00Z"
+    },
+    {
+      "id": "user-08",
+      "clerk_id": "clerk_manoj_tiwari",
+      "name": "Manoj Tiwari",
+      "email": "manoj.tiwari@mospi.gov.in",
+      "role": "learner",
+      "department": "DPD",
+      "designation": "Data Analyst",
+      "years_experience": 4,
+      "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150&auto=format&fit=crop&q=80",
+      "created_at": "2026-02-18T10:10:00Z"
+    },
+    {
+      "id": "user-09",
+      "clerk_id": "clerk_meenakshi_s",
+      "name": "Meenakshi Sundaram",
+      "email": "meenakshi.s@mospi.gov.in",
+      "role": "learner",
+      "department": "NSS",
+      "designation": "Field Investigator",
+      "years_experience": 7,
+      "avatar": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?w=150&auto=format&fit=crop&q=80",
+      "created_at": "2026-02-22T09:30:00Z"
+    },
+    {
+      "id": "user-10",
+      "clerk_id": "clerk_arun_gupta",
+      "name": "Arun Gupta",
+      "email": "arun.gupta@mospi.gov.in",
+      "role": "learner",
+      "department": "DPD",
+      "designation": "Survey Supervisor",
+      "years_experience": 9,
+      "avatar": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=150&auto=format&fit=crop&q=80",
+      "created_at": "2026-02-25T15:40:00Z"
+    },
+    {
+      "id": "user-11",
+      "clerk_id": "clerk_kavita_reddy",
+      "name": "Kavita Reddy",
+      "email": "kavita.reddy@mospi.gov.in",
+      "role": "learner",
+      "department": "DES",
+      "designation": "Survey Supervisor",
+      "years_experience": 5,
+      "avatar": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=150&auto=format&fit=crop&q=80",
+      "created_at": "2026-03-01T11:00:00Z"
+    },
+    {
+      "id": "user-12",
+      "clerk_id": "clerk_sanjay_joshi",
+      "name": "Sanjay Joshi",
+      "email": "sanjay.joshi@mospi.gov.in",
+      "role": "learner",
+      "department": "NSO",
+      "designation": "Statistical Officer",
+      "years_experience": 11,
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&auto=format&fit=crop&q=80",
+      "created_at": "2026-03-05T13:25:00Z"
+    },
+    {
+      "id": "admin-01",
+      "clerk_id": "clerk_admin_mospi",
+      "name": "Dr. Harsh Vardhan (Admin)",
+      "email": "training.cell@mospi.gov.in",
+      "role": "admin",
+      "department": "NSO",
+      "designation": "Joint Director (Training)",
+      "years_experience": 18,
+      "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=150&auto=format&fit=crop&q=80",
+      "created_at": "2026-01-01T08:00:00Z"
+    }
+  ],
+  "competencies": [
+    {
+      "code": "DC",
+      "name": "Data Collection",
+      "frac_type": "Domain",
+      "description": "Field enumeration, household questionnaires, CAPI/CAPE tools, non-response mitigation, and primary data capture protocols."
+    },
+    {
+      "code": "SD",
+      "name": "Sampling Design",
+      "frac_type": "Domain",
+      "description": "Stratification, multi-stage sampling, cluster sampling, PPS (Probability Proportional to Size), sample size estimation, and sampling weight calculations."
+    },
+    {
+      "code": "DP",
+      "name": "Data Processing",
+      "frac_type": "Functional",
+      "description": "Scrutiny rules, data cleaning, validation checks, NIC/NCO classification coding, and missing value imputation methods."
+    },
+    {
+      "code": "SA",
+      "name": "Statistical Analysis",
+      "frac_type": "Domain",
+      "description": "Descriptive metrics, index numbers (CPI, IIP), regression models, hypothesis testing, survey estimation, and variance estimation."
+    },
+    {
+      "code": "DV",
+      "name": "Data Visualization",
+      "frac_type": "Functional",
+      "description": "Dashboard creation, statistical release charts, infographics, GIS thematic mapping, and visual storytelling for policy makers."
+    },
+    {
+      "code": "SO",
+      "name": "Survey Operations",
+      "frac_type": "Functional",
+      "description": "Field logistics, supervision hierarchies, enumerator quality audits, time schedules, and resource planning across administrative units."
+    },
+    {
+      "code": "LE",
+      "name": "Legal & Ethical",
+      "frac_type": "Behavioural",
+      "description": "Collection of Statistics Act 2008, Official Statistics secrecy, data confidentiality, respondent rights, and ethical governance of microdata."
+    }
+  ],
+  "courses": [
+    {
+      "id": "KK-101",
+      "title": "Fundamentals of Survey Data Collection",
+      "description": "Core concepts of primary field survey enumeration, interview techniques, handling respondent refusal, and standard MoSPI field schedules.",
+      "duration_mins": 90,
+      "language": "Hindi",
+      "difficulty": "beginner",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-101",
+      "competencies": [
+        {
+          "code": "DC",
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "id": "KK-102",
+      "title": "Questionnaire Design for Household Surveys",
+      "description": "Designing structured and semi-structured schedules, skip patterns, objective validation checks, and cognitive testing in national surveys.",
+      "duration_mins": 120,
+      "language": "English",
+      "difficulty": "intermediate",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-102",
+      "competencies": [
+        {
+          "code": "DC",
+          "weight": 3
+        },
+        {
+          "code": "SO",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "KK-103",
+      "title": "CAPI/CAPE Field Tools Essentials",
+      "description": "Practical training on Computer Assisted Personal Interviewing (CAPI) tablets, offline synchronization, GPS tagging, and real-time field error flags.",
+      "duration_mins": 75,
+      "language": "English",
+      "difficulty": "beginner",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-103",
+      "competencies": [
+        {
+          "code": "DC",
+          "weight": 2
+        },
+        {
+          "code": "SO",
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "id": "KK-104",
+      "title": "Introduction to Sampling Methods",
+      "description": "Fundamental principles of probability sampling, simple random sampling with and without replacement, and sampling frame compilation.",
+      "duration_mins": 100,
+      "language": "Hindi",
+      "difficulty": "beginner",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-104",
+      "competencies": [
+        {
+          "code": "SD",
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "id": "KK-105",
+      "title": "Stratified and Cluster Sampling in Practice",
+      "description": "Practical allocation strategies (Neyman, proportional), primary sampling units (PSUs), ultimate sampling units, and design effect (DEFF).",
+      "duration_mins": 140,
+      "language": "English",
+      "difficulty": "intermediate",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-105",
+      "competencies": [
+        {
+          "code": "SD",
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "id": "KK-106",
+      "title": "Sample Size and Sampling Error Estimation",
+      "description": "Advanced mathematical formulation of margin of error, power calculation, non-response inflation factors, and complex survey standard error formulas.",
+      "duration_mins": 150,
+      "language": "English",
+      "difficulty": "advanced",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-106",
+      "competencies": [
+        {
+          "code": "SD",
+          "weight": 2
+        },
+        {
+          "code": "SA",
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "id": "KK-107",
+      "title": "Data Cleaning and Validation Basics",
+      "description": "Systematic approaches to detect outliers, range discrepancies, internal inconsistency in household rosters, and batch scrubbing techniques.",
+      "duration_mins": 80,
+      "language": "Hindi",
+      "difficulty": "beginner",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-107",
+      "competencies": [
+        {
+          "code": "DP",
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "id": "KK-108",
+      "title": "Handling Missing Data and Imputation",
+      "description": "Hot-deck imputation, mean imputation, regression imputation, and best practices for documenting imputed fields in official statistical releases.",
+      "duration_mins": 110,
+      "language": "English",
+      "difficulty": "intermediate",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-108",
+      "competencies": [
+        {
+          "code": "DP",
+          "weight": 3
+        },
+        {
+          "code": "SA",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "KK-109",
+      "title": "Coding and Classification (NIC, NCO)",
+      "description": "Applying the National Industrial Classification (NIC-2008) and National Classification of Occupations (NCO-2015) in enterprise and labour surveys.",
+      "duration_mins": 95,
+      "language": "English",
+      "difficulty": "intermediate",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-109",
+      "competencies": [
+        {
+          "code": "DP",
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "id": "KK-110",
+      "title": "Descriptive Statistics for Official Data",
+      "description": "Measures of central tendency, dispersion, skewness, weighted averages, and tabular presentation for government reports and statistical yearbooks.",
+      "duration_mins": 90,
+      "language": "Hindi",
+      "difficulty": "beginner",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-110",
+      "competencies": [
+        {
+          "code": "SA",
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "id": "KK-111",
+      "title": "Estimation and Inference from Survey Data",
+      "description": "Horvitz-Thompson estimators, ratio and regression estimation, calibration estimators, confidence intervals, and hypothesis tests for sample surveys.",
+      "duration_mins": 150,
+      "language": "English",
+      "difficulty": "intermediate",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-111",
+      "competencies": [
+        {
+          "code": "SA",
+          "weight": 3
+        },
+        {
+          "code": "SD",
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "id": "KK-112",
+      "title": "Index Numbers: CPI and IIP Methodology",
+      "description": "Laspeyres, Paasche, and Fisher formulations, base year revisions, item basket weighting, chaining indices, and splicing methodologies used in MoSPI.",
+      "duration_mins": 120,
+      "language": "English",
+      "difficulty": "intermediate",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-112",
+      "competencies": [
+        {
+          "code": "SA",
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "id": "KK-113",
+      "title": "Regression and Time-Series for Statisticians",
+      "description": "ARIMA modelling, seasonal adjustments (X-12-ARIMA), trend-cycle decomposition, and econometric regression for macroeconomic forecasting.",
+      "duration_mins": 180,
+      "language": "English",
+      "difficulty": "advanced",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-113",
+      "competencies": [
+        {
+          "code": "SA",
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "id": "KK-114",
+      "title": "Machine Learning Applications in Official Statistics",
+      "description": "Using supervised algorithms for automated occupation coding, satellite imagery classification for crop estimation, and anomaly detection.",
+      "duration_mins": 160,
+      "language": "English",
+      "difficulty": "advanced",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-114",
+      "competencies": [
+        {
+          "code": "SA",
+          "weight": 2
+        },
+        {
+          "code": "DP",
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "id": "KK-115",
+      "title": "Data Visualization Principles",
+      "description": "Visual perception, chart selection heuristics, colour theory for accessibility, and preventing misleading chart truncations in official bulletins.",
+      "duration_mins": 70,
+      "language": "Hindi",
+      "difficulty": "beginner",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-115",
+      "competencies": [
+        {
+          "code": "DV",
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "id": "KK-116",
+      "title": "Building Dashboards for Statistical Releases",
+      "description": "Constructing interactive public dashboards, drill-downs by State and District, responsiveness, and integrating automated data pipelines.",
+      "duration_mins": 110,
+      "language": "English",
+      "difficulty": "intermediate",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-116",
+      "competencies": [
+        {
+          "code": "DV",
+          "weight": 3
+        },
+        {
+          "code": "DP",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "KK-117",
+      "title": "Visual Storytelling with Survey Results",
+      "description": "Communicating complex statistical findings to parliamentarians, policy makers, and the press using infographics, narratives, and executive summaries.",
+      "duration_mins": 85,
+      "language": "English",
+      "difficulty": "intermediate",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-117",
+      "competencies": [
+        {
+          "code": "DV",
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "id": "KK-118",
+      "title": "Field Operations Planning and Supervision",
+      "description": "Field work scheduling, assigning supervisory jurisdictions, managing movement plans, camp office operations, and field budget accounting.",
+      "duration_mins": 100,
+      "language": "English",
+      "difficulty": "intermediate",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-118",
+      "competencies": [
+        {
+          "code": "SO",
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "id": "KK-119",
+      "title": "Enumerator Training and Quality Monitoring",
+      "description": "Techniques for conducting effective pre-survey workshops, role-play interviews, concurrent scrutiny, and surprise field inspections.",
+      "duration_mins": 90,
+      "language": "English",
+      "difficulty": "beginner",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-119",
+      "competencies": [
+        {
+          "code": "SO",
+          "weight": 3
+        },
+        {
+          "code": "DC",
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "id": "KK-120",
+      "title": "Survey Logistics and Timeline Management",
+      "description": "Dispatching field kits, tracking sub-round milestones, contingency management during natural disruptions, and chain of custody for records.",
+      "duration_mins": 80,
+      "language": "English",
+      "difficulty": "intermediate",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-120",
+      "competencies": [
+        {
+          "code": "SO",
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "id": "KK-121",
+      "title": "Data Confidentiality and the Collection of Statistics Act",
+      "description": "In-depth review of the Collection of Statistics Act 2008, statutory obligations of statistical officers, penalties, and confidentiality assurances.",
+      "duration_mins": 60,
+      "language": "Hindi",
+      "difficulty": "beginner",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-121",
+      "competencies": [
+        {
+          "code": "LE",
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "id": "KK-122",
+      "title": "Ethics in Official Statistics",
+      "description": "The UN Fundamental Principles of Official Statistics, professional integrity, impartiality, avoiding political influence, and transparent revisions.",
+      "duration_mins": 55,
+      "language": "English",
+      "difficulty": "beginner",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-122",
+      "competencies": [
+        {
+          "code": "LE",
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "id": "KK-123",
+      "title": "Data Protection and Responsible AI for Officials",
+      "description": "Digital Personal Data Protection (DPDP) Act 2023 compliance, anonymization algorithms (k-anonymity, differential privacy), and AI ethics.",
+      "duration_mins": 75,
+      "language": "English",
+      "difficulty": "intermediate",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-123",
+      "competencies": [
+        {
+          "code": "LE",
+          "weight": 2
+        },
+        {
+          "code": "SA",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "KK-124",
+      "title": "End-to-End Survey Lifecycle Overview",
+      "description": "High-level walkthrough of the Generic Statistical Business Process Model (GSBPM) as applied to national socioeconomic surveys in India.",
+      "duration_mins": 120,
+      "language": "English",
+      "difficulty": "beginner",
+      "mock_url": "https://igotkarmayogi.gov.in/mock/course/KK-124",
+      "competencies": [
+        {
+          "code": "DC",
+          "weight": 2
+        },
+        {
+          "code": "SD",
+          "weight": 1
+        },
+        {
+          "code": "DP",
+          "weight": 1
+        },
+        {
+          "code": "SO",
+          "weight": 2
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "id": "mat-01",
+      "title": "NSS Field Operations Manual — Household Survey Enumeration",
+      "filename": "NSS_Field_Operations_Manual_Excerpt.pdf",
+      "competency_code": "DC",
+      "created_by": "Admin / Training Cell",
+      "created_at": "2026-03-10T10:00:00Z",
+      "char_count": 5420,
+      "extracted_text": "MINISTRY OF STATISTICS AND PROGRAMME IMPLEMENTATION\nNATIONAL STATISTICAL OFFICE (FIELD OPERATIONS DIVISION)\nINSTRUCTIONS TO FIELD INVESTIGATORS FOR SOCIOECONOMIC SURVEYS\n\nCHAPTER 2: GENERAL PROCEDURE OF FIELDWORK AND DATA CAPTURE\n1. Identification and Listing of Sample Units:\nThe primary sampling unit (PSU) in the rural sector is generally a revenue village (or census village), and in the urban sector, an Urban Frame Survey (UFS) block. The investigator must first visit the boundary demarcations of the selected village/block and prepare a clean listing schedule. If the population of the selected PSU exceeds 1,200 (or approximately 300 households), hamlet-group formation (rural) or sub-block formation (urban) must be carried out following the rules of equal population subdivision.\n\n2. Respondent Selection and Non-Response:\nInterviews should primarily be conducted with the head of the household or an adult resident capable of providing accurate financial and demographic details. In cases where the household is temporarily absent, at least three separate visits on different days and times must be attempted before declaring a non-response. Substitution of households is strictly prohibited unless authorized in writing by the Supervisory Officer according to the reserve list protocol.\n\n3. Computer Assisted Personal Interviewing (CAPI) Standards:\nData capture on tablets must be validated daily before synchronization. Investigators must ensure that geo-coordinates (latitude and longitude) are locked at the doorstep of the dwelling unit. Any range check violation triggered by the CAPI software must be accompanied by an explanatory field remark in the designated text box."
+    },
+    {
+      "id": "mat-02",
+      "title": "Handbook on Index Numbers: CPI and IIP Methodology",
+      "filename": "MoSPI_Handbook_Index_Numbers_CPI_IIP.pdf",
+      "competency_code": "SA",
+      "created_by": "Admin / Training Cell",
+      "created_at": "2026-03-12T14:30:00Z",
+      "char_count": 4890,
+      "extracted_text": "CENTRAL STATISTICS OFFICE (CSO)\nMETHODOLOGY NOTE ON THE COMPILATION OF CONSUMER PRICE INDEX (CPI) AND INDEX OF INDUSTRIAL PRODUCTION (IIP)\n\n1. Formulation of Index Numbers:\nThe Index of Industrial Production (IIP) measures the quantum of growth in the industrial sector over a specified period compared to a fixed base year. The primary mathematical formulation employed is the Laspeyres base-weighted formula:\nIIP = (Sum (Wi * (Qit / Qi0))) / (Sum Wi) * 100\nWhere Wi represents the weight assigned to the i-th item in the basket based on Gross Value Added (GVA), Qit is the physical production quantity in current period t, and Qi0 is the physical production quantity in the base period.\n\n2. Mining, Manufacturing, and Electricity Sectors:\nThe industrial sector is broadly classified into three categories: Mining, Manufacturing, and Electricity. Manufacturing holds the largest weight (exceeding 77%), followed by Mining and Electricity. Data for the manufacturing sector is gathered from registered factories under the Factories Act, 1948 through the monthly production return system.\n\n3. Base Year Revision and Splicing:\nTo capture structural shifts in the economy, base years are updated periodically. When a new base year is introduced, backward comparability is maintained through the Arithmetic Splicing method using a linking factor. The linking factor is computed as the ratio of the index in the new base year to the index in the old base year for a common overlapping period."
+    },
+    {
+      "id": "mat-03",
+      "title": "MoSPI Technical Guidelines on Sampling Design & Variance Estimation",
+      "filename": "MoSPI_Sampling_Design_Guidelines.pdf",
+      "competency_code": "SD",
+      "created_by": "Admin / Training Cell",
+      "created_at": "2026-03-15T09:15:00Z",
+      "char_count": 5120,
+      "extracted_text": "NATIONAL SAMPLE SURVEY DESIGN & ANALYSIS DIVISION\nTECHNICAL GUIDELINES ON STRATIFIED MULTI-STAGE SAMPLING SCHEMES\n\n1. Stratified Multi-Stage Sampling Architecture:\nThe standard sampling design used in NSS nationwide rounds is a stratified multi-stage design. The first-stage units (FSUs) are census villages in rural areas and UFS blocks in urban areas. The ultimate stage units (USUs) are households for socioeconomic surveys and enterprises for economic census follow-up surveys.\n\n2. Allocation of Sample FSUs:\nThe total national sample size of FSUs is allocated among States and Union Territories in proportion to their population as per the latest Census. Within each State/UT, allocation between rural and urban sectors is made in proportion to their respective populations with a slight weight adjustment for urban sectors.\n\n3. Probability Proportional to Size with Replacement (PPSWR) vs Circular Systematic Sampling:\nIn rural strata where census population data is robust, FSUs are selected by Probability Proportional to Size with Replacement (PPSWR), the size being the census population of the village. In urban strata, FSUs are selected by Simple Random Sampling Without Replacement (SRSWOR) or Circular Systematic Sampling with equal probability.\n\n4. Design Effect (DEFF):\nBecause cluster sampling and stratification introduce correlation among units within the same cluster, the variance of survey estimates differs from simple random sampling. The Design Effect (DEFF) is defined as the ratio of the actual variance under the complex design to the variance under simple random sampling of the same sample size: DEFF = Var(complex) / Var(SRS). Investigators and analysts must report DEFF for key national indicators."
+    },
+    {
+      "id": "mat-04",
+      "title": "Legal and Ethical Obligations under the Collection of Statistics Act, 2008",
+      "filename": "Collection_of_Statistics_Act_Legal_Handbook.pdf",
+      "competency_code": "LE",
+      "created_by": "Admin / Training Cell",
+      "created_at": "2026-03-18T16:00:00Z",
+      "char_count": 4620,
+      "extracted_text": "MINISTRY OF STATISTICS AND PROGRAMME IMPLEMENTATION\nSTATUTORY COMPLIANCE COMPENDIUM: COLLECTION OF STATISTICS ACT, 2008 (ACT NO. 7 OF 2009)\n\n1. Statutory Authority and Scope:\nThe Collection of Statistics Act, 2008 provides legislative mandate to Central, State, and Union Territory administrations to collect socioeconomic, commercial, industrial, and demographic data. Under Section 4, a designated Statistics Officer is legally empowered to issue notices requiring individuals, business owners, and institutions to furnish returns within a specified time limit.\n\n2. Absolute Secrecy and Confidentiality of Information (Section 9):\nNo information gathered for statistical purposes under this Act shall be used for any purpose other than statistical compilation. Section 9 explicitly mandates that statistical records cannot be disclosed to taxation authorities, police, or judicial tribunals as evidence against the respondent. Individual or identifiable data cannot be published without the express prior written consent of the informant.\n\n3. Offenses and Penalties:\nFailure to furnish information without reasonable excuse, providing intentionally false information, or obstructing an authorized statistical officer constitutes an offense under Section 15. The Act prescribes financial penalties and, for persistent failure, daily continuing fines. Furthermore, any statistical staff or contractor who breaches confidentiality or discloses microdata is subject to imprisonment and monetary fine under Section 20."
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "quiz-sa-01",
+      "material_id": "mat-02",
+      "title": "Statistical Analysis: Index Numbers, CPI & IIP Methodologies",
+      "competency_code": "SA",
+      "difficulty": "intermediate",
+      "status": "published",
+      "created_by": "Admin / Training Cell",
+      "created_at": "2026-03-15T11:00:00Z",
+      "questions": [
+        {
+          "id": "q-sa-1",
+          "question": "Which index formula is primarily utilized in the compilation of the Index of Industrial Production (IIP) in India?",
+          "options": [
+            "Laspeyres base-weighted formulation",
+            "Paasche current-weighted formulation",
+            "Fisher ideal geometric mean formulation",
+            "Marshall-Edgeworth composite index"
+          ],
+          "correct_index": 0,
+          "explanation": "According to MoSPI compilation methodology, the IIP uses the Laspeyres base-weighted formula where quantities are weighted by base-period Gross Value Added.",
+          "competency": "SA",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "q-sa-2",
+          "question": "Which broad industrial sector carries the highest weighting (exceeding 77%) in the all-India IIP basket?",
+          "options": [
+            "Mining and Quarrying",
+            "Electricity Generation",
+            "Manufacturing",
+            "Construction and Utilities"
+          ],
+          "correct_index": 2,
+          "explanation": "In the Indian IIP basket, Manufacturing is the dominant component with a weight exceeding 77%, with Mining and Electricity accounting for the remainder.",
+          "competency": "SA",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "q-sa-3",
+          "question": "What statistical procedure is applied to maintain historical time-series comparability when an index base year is revised?",
+          "options": [
+            "Harmonic normalization",
+            "Arithmetic splicing using a linking factor",
+            "Moving average subtraction",
+            "Exponential smoothing without adjustment"
+          ],
+          "correct_index": 1,
+          "explanation": "Arithmetic splicing using an empirical linking factor derived from the overlapping period is the standard official method to connect previous and new base series.",
+          "competency": "SA",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "q-sa-4",
+          "question": "If the price index of commodity A doubles while quantity consumed drops by half under fixed base weights, how is the Laspeyres index impacted?",
+          "options": [
+            "It drops by 50% due to reduced current consumption",
+            "It doubles for that item because Laspeyres uses base period quantities",
+            "It stays exactly at 100 because price and quantity offset",
+            "It becomes statistically undefined without Paasche correction"
+          ],
+          "correct_index": 1,
+          "explanation": "The Laspeyres formula evaluates current prices weighted exclusively by base period quantities; current consumption changes do not diminish the base quantity weights.",
+          "competency": "SA",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "q-sa-5",
+          "question": "What is the primary weighting source for the items in the Index of Industrial Production (IIP)?",
+          "options": [
+            "Consumer Price Expenditure Survey shares",
+            "Gross Value Added (GVA) contributions from Annual Survey of Industries",
+            "Customs import-export tariffs records",
+            "Corporate tax revenues submitted to CBDT"
+          ],
+          "correct_index": 1,
+          "explanation": "IIP item weights are established based on Gross Value Added (GVA) shares sourced from the Annual Survey of Industries (ASI) for the base year.",
+          "competency": "SA",
+          "difficulty": "intermediate"
+        }
+      ]
+    },
+    {
+      "id": "quiz-sd-01",
+      "material_id": "mat-03",
+      "title": "Sampling Design: Stratification, Allocation & Design Effect",
+      "competency_code": "SD",
+      "difficulty": "intermediate",
+      "status": "published",
+      "created_by": "Admin / Training Cell",
+      "created_at": "2026-03-16T12:00:00Z",
+      "questions": [
+        {
+          "id": "q-sd-1",
+          "question": "In the standard multi-stage sampling design of NSS surveys, what constitute the First Stage Units (FSUs) in the rural sector?",
+          "options": [
+            "Individual household dwelling units",
+            "Census or revenue villages",
+            "Panchayat wards",
+            "Gram panchayat development blocks"
+          ],
+          "correct_index": 1,
+          "explanation": "In the rural sector of NSS surveys, the primary or First Stage Units (FSUs) are census/revenue villages, while Urban Frame Survey (UFS) blocks serve as FSUs in urban areas.",
+          "competency": "SD",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "q-sd-2",
+          "question": "What sampling selection scheme is predominantly employed to select rural FSUs when robust census population data is available?",
+          "options": [
+            "Simple Random Sampling Without Replacement (SRSWOR)",
+            "Probability Proportional to Size with Replacement (PPSWR)",
+            "Snowball sampling technique",
+            "Quota sampling based on land area"
+          ],
+          "correct_index": 1,
+          "explanation": "Rural FSUs are chosen using Probability Proportional to Size with Replacement (PPSWR), with village census population serving as the size measure.",
+          "competency": "SD",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "q-sd-3",
+          "question": "How is the Design Effect (DEFF) mathematically defined in complex survey analysis?",
+          "options": [
+            "Ratio of non-response rate to total sample size",
+            "Ratio of variance under the complex design to variance under simple random sampling",
+            "Product of stratum weights and household sizes",
+            "Difference between sample mean and population census mean"
+          ],
+          "correct_index": 1,
+          "explanation": "DEFF = Var(complex) / Var(SRS). It quantifies the efficiency penalty or gain of the complex multi-stage design relative to hypothetical SRS of equivalent size.",
+          "competency": "SD",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "q-sd-4",
+          "question": "When the population of a selected rural village exceeds 1,200 persons (approx. 300 households), what protocol must the field team execute?",
+          "options": [
+            "Abandon the PSU and substitute with the reserve list village",
+            "Conduct hamlet-group formation dividing the village into equal population segments",
+            "Interview all 300 households without sampling",
+            "Drop 50% of households chosen alphabetically"
+          ],
+          "correct_index": 1,
+          "explanation": "Under NSS standards, large FSUs exceeding 1,200 population are partitioned into hamlet-groups of roughly equal size, and a subset is sampled to keep listing manageable.",
+          "competency": "SD",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "q-sd-5",
+          "question": "What allocation strategy minimizes sampling variance for an overall fixed sample size when stratum variances differ?",
+          "options": [
+            "Equal allocation across all strata",
+            "Neyman optimal allocation",
+            "Arbitrary subjective quota allocation",
+            "Inverse proportional area allocation"
+          ],
+          "correct_index": 1,
+          "explanation": "Neyman allocation assigns sample sizes proportional to stratum size multiplied by stratum standard deviation, mathematically minimizing estimator variance.",
+          "competency": "SD",
+          "difficulty": "intermediate"
+        }
+      ]
+    },
+    {
+      "id": "quiz-dc-01",
+      "material_id": "mat-01",
+      "title": "Data Collection: Field Operations & CAPI Protocol Standards",
+      "competency_code": "DC",
+      "difficulty": "beginner",
+      "status": "published",
+      "created_by": "Admin / Training Cell",
+      "created_at": "2026-03-17T09:30:00Z",
+      "questions": [
+        {
+          "id": "q-dc-1",
+          "question": "What is the required procedure before declaring a selected household as a non-response in an official survey?",
+          "options": [
+            "Immediately pick the next door neighbor as substitute",
+            "Attempt at least three separate visits on different days and times",
+            "Leave a paper schedule in the mailbox and proceed",
+            "Mark as non-response after 10 minutes if no one answers"
+          ],
+          "correct_index": 1,
+          "explanation": "MoSPI field instructions dictate that at least three separate visits across different days and times must be completed before classifying a household as non-response.",
+          "competency": "DC",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "q-dc-2",
+          "question": "Under what condition is an investigator permitted to substitute a selected sample household in the field?",
+          "options": [
+            "Whenever the respondent appears uncooperative or busy",
+            "Only when authorized in writing by the Supervisory Officer under the reserve protocol",
+            "Whenever the investigator needs to meet their daily quota",
+            "Substitution is strictly never allowed under any circumstance whatsoever"
+          ],
+          "correct_index": 1,
+          "explanation": "Informal substitution is prohibited; substitution can only occur via written supervisory authorization adhering strictly to the predefined random reserve list.",
+          "competency": "DC",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "q-dc-3",
+          "question": "What verification must be performed at the dwelling doorstep during CAPI (Computer Assisted Personal Interviewing) data entry?",
+          "options": [
+            "Printing a physical paper backup",
+            "Locking GPS geo-coordinates (latitude and longitude)",
+            "Receiving an SMS OTP from the village headman",
+            "Calculating the full district consumer price index"
+          ],
+          "correct_index": 1,
+          "explanation": "CAPI tablets must acquire and record valid satellite GPS coordinates at the physical dwelling entrance to audit geographical validity of enumeration.",
+          "competency": "DC",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "q-dc-4",
+          "question": "Who should be the primary respondent for socioeconomic household questionnaires?",
+          "options": [
+            "Any minor child residing in the premises",
+            "The head of the household or an adult resident capable of providing accurate demographic details",
+            "The local postal delivery agent",
+            "The nearest commercial shopkeeper"
+          ],
+          "correct_index": 1,
+          "explanation": "The head of the household or a knowledgeable adult resident familiar with family composition, expenditures, and economic activities must be the primary respondent.",
+          "competency": "DC",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "q-dc-5",
+          "question": "What must an investigator do if a CAPI application triggers a soft range check warning during data entry?",
+          "options": [
+            "Force close the application and restart the device",
+            "Verify the value with the respondent and enter an explanatory remark in the designated field",
+            "Alter the respondent number so no alert is triggered",
+            "Skip the question without recording any value"
+          ],
+          "correct_index": 1,
+          "explanation": "Soft validation warnings require confirming the unusual true value with the respondent and recording an explanatory supervisor remark in the designated box.",
+          "competency": "DC",
+          "difficulty": "beginner"
+        }
+      ]
+    },
+    {
+      "id": "quiz-le-01",
+      "material_id": "mat-04",
+      "title": "Legal & Ethical: Collection of Statistics Act 2008 & Data Privacy",
+      "competency_code": "LE",
+      "difficulty": "beginner",
+      "status": "published",
+      "created_by": "Admin / Training Cell",
+      "created_at": "2026-03-18T14:00:00Z",
+      "questions": [
+        {
+          "id": "q-le-1",
+          "question": "Under Section 9 of the Collection of Statistics Act 2008, how can microdata collected from an individual respondent be used?",
+          "options": [
+            "Exclusively for statistical compilation; it cannot be shared with tax or police authorities",
+            "Shared freely with commercial advertising networks to raise state revenue",
+            "Used directly by local municipal bodies to levy property taxes",
+            "Submitted as criminal evidence in magistrate courts against the respondent"
+          ],
+          "correct_index": 0,
+          "explanation": "Section 9 mandates strict confidentiality: data gathered under the Act can only be used for statistical purposes and is legally exempt from search/subpoena by tax or law enforcement agencies.",
+          "competency": "LE",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "q-le-2",
+          "question": "What is required before individual identifiable survey records can be disclosed to any outside party?",
+          "options": [
+            "Approval from a local police inspector",
+            "The express prior written consent of the informant",
+            "Payment of a standard government RTI application fee",
+            "No consent is needed once the report is placed in parliament"
+          ],
+          "correct_index": 1,
+          "explanation": "The Act strictly forbids disclosing identifiable informant records without express prior written consent from the informant who provided the data.",
+          "competency": "LE",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "q-le-3",
+          "question": "What consequence does a statistical officer or contractor face for willfully breaching statutory respondent confidentiality under Section 20?",
+          "options": [
+            "A verbal warning during internal review",
+            "Criminal prosecution with imprisonment and monetary fine",
+            "Transfer to another district office without penalty",
+            "Loss of one day of casual leave"
+          ],
+          "correct_index": 1,
+          "explanation": "Section 20 classifies the unauthorized disclosure or breach of confidentiality by statistical personnel as a criminal offense punishable by imprisonment and fines.",
+          "competency": "LE",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "q-le-4",
+          "question": "Which international benchmark outlines the professional integrity, transparency, and impartiality expected in government statistics?",
+          "options": [
+            "The UN Fundamental Principles of Official Statistics",
+            "The Basel III Capital Adequacy Accord",
+            "The World Trade Organization GATT tariff guidelines",
+            "The Bretton Woods Monetary Exchange agreement"
+          ],
+          "correct_index": 0,
+          "explanation": "The UN Fundamental Principles of Official Statistics (adopted by the UN General Assembly) is the universal ethical code governing impartiality and transparency in official data.",
+          "competency": "LE",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "q-le-5",
+          "question": "Under the Digital Personal Data Protection (DPDP) Act 2023, what privacy-enhancing technique is recommended prior to publishing research datasets?",
+          "options": [
+            "Direct publication of full names and Aadhaar numbers",
+            "De-identification and anonymization (e.g. k-anonymity or aggregation)",
+            "Compressing files into password protected zip folders",
+            "Rotating column headers in reverse alphabetical order"
+          ],
+          "correct_index": 1,
+          "explanation": "Anonymization and de-identification techniques such as k-anonymity and aggregation ensure statistical utility while preventing identity re-identification of survey respondents.",
+          "competency": "LE",
+          "difficulty": "beginner"
+        }
+      ]
+    }
+  ],
+  "attempts": [
+    {
+      "id": "att-01",
+      "user_id": "user-03",
+      "quiz_id": "quiz-sa-01",
+      "quiz_title": "Statistical Analysis: Index Numbers, CPI & IIP Methodologies",
+      "competency_code": "SA",
+      "score": 4,
+      "total": 5,
+      "taken_at": "2026-03-20T14:15:00Z",
+      "answers": [
+        {
+          "question_id": "q-sa-1",
+          "selected_index": 0,
+          "is_correct": true
+        },
+        {
+          "question_id": "q-sa-2",
+          "selected_index": 2,
+          "is_correct": true
+        },
+        {
+          "question_id": "q-sa-3",
+          "selected_index": 1,
+          "is_correct": true
+        },
+        {
+          "question_id": "q-sa-4",
+          "selected_index": 1,
+          "is_correct": true
+        },
+        {
+          "question_id": "q-sa-5",
+          "selected_index": 0,
+          "is_correct": false
+        }
+      ],
+      "delta_applied": {
+        "code": "SA",
+        "before": 3,
+        "after": 3.3
+      }
+    },
+    {
+      "id": "att-02",
+      "user_id": "user-02",
+      "quiz_id": "quiz-dc-01",
+      "quiz_title": "Data Collection: Field Operations & CAPI Protocol Standards",
+      "competency_code": "DC",
+      "score": 5,
+      "total": 5,
+      "taken_at": "2026-03-21T10:00:00Z",
+      "answers": [
+        {
+          "question_id": "q-dc-1",
+          "selected_index": 1,
+          "is_correct": true
+        },
+        {
+          "question_id": "q-dc-2",
+          "selected_index": 1,
+          "is_correct": true
+        },
+        {
+          "question_id": "q-dc-3",
+          "selected_index": 1,
+          "is_correct": true
+        },
+        {
+          "question_id": "q-dc-4",
+          "selected_index": 1,
+          "is_correct": true
+        },
+        {
+          "question_id": "q-dc-5",
+          "selected_index": 1,
+          "is_correct": true
+        }
+      ],
+      "delta_applied": {
+        "code": "DC",
+        "before": 4,
+        "after": 4.3
+      }
+    },
+    {
+      "id": "att-03",
+      "user_id": "user-04",
+      "quiz_id": "quiz-le-01",
+      "quiz_title": "Legal & Ethical: Collection of Statistics Act 2008 & Data Privacy",
+      "competency_code": "LE",
+      "score": 4,
+      "total": 5,
+      "taken_at": "2026-03-22T16:45:00Z",
+      "answers": [
+        {
+          "question_id": "q-le-1",
+          "selected_index": 0,
+          "is_correct": true
+        },
+        {
+          "question_id": "q-le-2",
+          "selected_index": 1,
+          "is_correct": true
+        },
+        {
+          "question_id": "q-le-3",
+          "selected_index": 1,
+          "is_correct": true
+        },
+        {
+          "question_id": "q-le-4",
+          "selected_index": 0,
+          "is_correct": true
+        },
+        {
+          "question_id": "q-le-5",
+          "selected_index": 0,
+          "is_correct": false
+        }
+      ],
+      "delta_applied": {
+        "code": "LE",
+        "before": 4,
+        "after": 4.1
+      }
+    },
+    {
+      "id": "att-04",
+      "user_id": "user-05",
+      "quiz_id": "quiz-sd-01",
+      "quiz_title": "Sampling Design: Stratification, Allocation & Design Effect",
+      "competency_code": "SD",
+      "score": 3,
+      "total": 5,
+      "taken_at": "2026-03-23T11:20:00Z",
+      "answers": [
+        {
+          "question_id": "q-sd-1",
+          "selected_index": 1,
+          "is_correct": true
+        },
+        {
+          "question_id": "q-sd-2",
+          "selected_index": 1,
+          "is_correct": true
+        },
+        {
+          "question_id": "q-sd-3",
+          "selected_index": 0,
+          "is_correct": false
+        },
+        {
+          "question_id": "q-sd-4",
+          "selected_index": 1,
+          "is_correct": true
+        },
+        {
+          "question_id": "q-sd-5",
+          "selected_index": 0,
+          "is_correct": false
+        }
+      ],
+      "delta_applied": {
+        "code": "SD",
+        "before": 3,
+        "after": 3.1
+      }
+    }
+  ],
+  "selfRatings": {
+    "user-01": {
+      "DC": 3,
+      "SD": 2,
+      "DP": 4,
+      "SA": 2,
+      "DV": 3,
+      "SO": 2,
+      "LE": 3
+    },
+    "user-02": {
+      "DC": 4,
+      "SD": 2,
+      "DP": 2,
+      "SA": 2,
+      "DV": 2,
+      "SO": 3,
+      "LE": 3
+    },
+    "user-03": {
+      "DC": 3,
+      "SD": 3,
+      "DP": 4,
+      "SA": 3,
+      "DV": 3,
+      "SO": 2,
+      "LE": 3
+    },
+    "user-04": {
+      "DC": 3,
+      "SD": 2,
+      "DP": 2,
+      "SA": 2,
+      "DV": 2,
+      "SO": 4,
+      "LE": 4
+    },
+    "user-05": {
+      "DC": 3,
+      "SD": 3,
+      "DP": 3,
+      "SA": 3,
+      "DV": 2,
+      "SO": 2,
+      "LE": 3
+    },
+    "user-06": {
+      "DC": 2,
+      "SD": 2,
+      "DP": 3,
+      "SA": 2,
+      "DV": 3,
+      "SO": 2,
+      "LE": 3
+    },
+    "user-07": {
+      "DC": 3,
+      "SD": 1,
+      "DP": 2,
+      "SA": 1,
+      "DV": 1,
+      "SO": 3,
+      "LE": 3
+    },
+    "user-08": {
+      "DC": 3,
+      "SD": 2,
+      "DP": 3,
+      "SA": 3,
+      "DV": 2,
+      "SO": 2,
+      "LE": 2
+    },
+    "user-09": {
+      "DC": 4,
+      "SD": 2,
+      "DP": 2,
+      "SA": 2,
+      "DV": 1,
+      "SO": 3,
+      "LE": 3
+    },
+    "user-10": {
+      "DC": 4,
+      "SD": 3,
+      "DP": 3,
+      "SA": 3,
+      "DV": 3,
+      "SO": 4,
+      "LE": 3
+    },
+    "user-11": {
+      "DC": 3,
+      "SD": 2,
+      "DP": 3,
+      "SA": 2,
+      "DV": 2,
+      "SO": 3,
+      "LE": 3
+    },
+    "user-12": {
+      "DC": 4,
+      "SD": 4,
+      "DP": 4,
+      "SA": 4,
+      "DV": 3,
+      "SO": 3,
+      "LE": 4
+    }
+  },
+  "selfRatingHistory": [
+    {
+      "id": "sr-user-01-DC-1790615561164",
+      "user_id": "user-01",
+      "competency_code": "DC",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-01-SD-1790615561164",
+      "user_id": "user-01",
+      "competency_code": "SD",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-01-DP-1790615561164",
+      "user_id": "user-01",
+      "competency_code": "DP",
+      "rating": 4,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-01-SA-1790615561164",
+      "user_id": "user-01",
+      "competency_code": "SA",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-01-DV-1790615561164",
+      "user_id": "user-01",
+      "competency_code": "DV",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-01-SO-1790615561164",
+      "user_id": "user-01",
+      "competency_code": "SO",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-01-LE-1790615561164",
+      "user_id": "user-01",
+      "competency_code": "LE",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-02-DC-1790615561164",
+      "user_id": "user-02",
+      "competency_code": "DC",
+      "rating": 4,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-02-SD-1790615561164",
+      "user_id": "user-02",
+      "competency_code": "SD",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-02-DP-1790615561164",
+      "user_id": "user-02",
+      "competency_code": "DP",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-02-SA-1790615561164",
+      "user_id": "user-02",
+      "competency_code": "SA",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-02-DV-1790615561164",
+      "user_id": "user-02",
+      "competency_code": "DV",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-02-SO-1790615561164",
+      "user_id": "user-02",
+      "competency_code": "SO",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-02-LE-1790615561164",
+      "user_id": "user-02",
+      "competency_code": "LE",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-03-DC-1790615561164",
+      "user_id": "user-03",
+      "competency_code": "DC",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-03-SD-1790615561164",
+      "user_id": "user-03",
+      "competency_code": "SD",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-03-DP-1790615561164",
+      "user_id": "user-03",
+      "competency_code": "DP",
+      "rating": 4,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-03-SA-1790615561164",
+      "user_id": "user-03",
+      "competency_code": "SA",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-03-DV-1790615561164",
+      "user_id": "user-03",
+      "competency_code": "DV",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-03-SO-1790615561164",
+      "user_id": "user-03",
+      "competency_code": "SO",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-03-LE-1790615561164",
+      "user_id": "user-03",
+      "competency_code": "LE",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-04-DC-1790615561164",
+      "user_id": "user-04",
+      "competency_code": "DC",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-04-SD-1790615561164",
+      "user_id": "user-04",
+      "competency_code": "SD",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-04-DP-1790615561164",
+      "user_id": "user-04",
+      "competency_code": "DP",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-04-SA-1790615561164",
+      "user_id": "user-04",
+      "competency_code": "SA",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-04-DV-1790615561164",
+      "user_id": "user-04",
+      "competency_code": "DV",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-04-SO-1790615561164",
+      "user_id": "user-04",
+      "competency_code": "SO",
+      "rating": 4,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-04-LE-1790615561164",
+      "user_id": "user-04",
+      "competency_code": "LE",
+      "rating": 4,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-05-DC-1790615561164",
+      "user_id": "user-05",
+      "competency_code": "DC",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-05-SD-1790615561164",
+      "user_id": "user-05",
+      "competency_code": "SD",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-05-DP-1790615561164",
+      "user_id": "user-05",
+      "competency_code": "DP",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-05-SA-1790615561164",
+      "user_id": "user-05",
+      "competency_code": "SA",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-05-DV-1790615561164",
+      "user_id": "user-05",
+      "competency_code": "DV",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-05-SO-1790615561164",
+      "user_id": "user-05",
+      "competency_code": "SO",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-05-LE-1790615561164",
+      "user_id": "user-05",
+      "competency_code": "LE",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-06-DC-1790615561164",
+      "user_id": "user-06",
+      "competency_code": "DC",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-06-SD-1790615561164",
+      "user_id": "user-06",
+      "competency_code": "SD",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-06-DP-1790615561164",
+      "user_id": "user-06",
+      "competency_code": "DP",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-06-SA-1790615561164",
+      "user_id": "user-06",
+      "competency_code": "SA",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-06-DV-1790615561164",
+      "user_id": "user-06",
+      "competency_code": "DV",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-06-SO-1790615561164",
+      "user_id": "user-06",
+      "competency_code": "SO",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-06-LE-1790615561164",
+      "user_id": "user-06",
+      "competency_code": "LE",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-07-DC-1790615561164",
+      "user_id": "user-07",
+      "competency_code": "DC",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-07-SD-1790615561164",
+      "user_id": "user-07",
+      "competency_code": "SD",
+      "rating": 1,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-07-DP-1790615561164",
+      "user_id": "user-07",
+      "competency_code": "DP",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-07-SA-1790615561164",
+      "user_id": "user-07",
+      "competency_code": "SA",
+      "rating": 1,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-07-DV-1790615561164",
+      "user_id": "user-07",
+      "competency_code": "DV",
+      "rating": 1,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-07-SO-1790615561164",
+      "user_id": "user-07",
+      "competency_code": "SO",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-07-LE-1790615561164",
+      "user_id": "user-07",
+      "competency_code": "LE",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-08-DC-1790615561164",
+      "user_id": "user-08",
+      "competency_code": "DC",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-08-SD-1790615561164",
+      "user_id": "user-08",
+      "competency_code": "SD",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-08-DP-1790615561164",
+      "user_id": "user-08",
+      "competency_code": "DP",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-08-SA-1790615561164",
+      "user_id": "user-08",
+      "competency_code": "SA",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-08-DV-1790615561164",
+      "user_id": "user-08",
+      "competency_code": "DV",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-08-SO-1790615561164",
+      "user_id": "user-08",
+      "competency_code": "SO",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-08-LE-1790615561164",
+      "user_id": "user-08",
+      "competency_code": "LE",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-09-DC-1790615561164",
+      "user_id": "user-09",
+      "competency_code": "DC",
+      "rating": 4,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-09-SD-1790615561164",
+      "user_id": "user-09",
+      "competency_code": "SD",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-09-DP-1790615561164",
+      "user_id": "user-09",
+      "competency_code": "DP",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-09-SA-1790615561164",
+      "user_id": "user-09",
+      "competency_code": "SA",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-09-DV-1790615561164",
+      "user_id": "user-09",
+      "competency_code": "DV",
+      "rating": 1,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-09-SO-1790615561164",
+      "user_id": "user-09",
+      "competency_code": "SO",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-09-LE-1790615561164",
+      "user_id": "user-09",
+      "competency_code": "LE",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-10-DC-1790615561164",
+      "user_id": "user-10",
+      "competency_code": "DC",
+      "rating": 4,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-10-SD-1790615561164",
+      "user_id": "user-10",
+      "competency_code": "SD",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-10-DP-1790615561164",
+      "user_id": "user-10",
+      "competency_code": "DP",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-10-SA-1790615561164",
+      "user_id": "user-10",
+      "competency_code": "SA",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-10-DV-1790615561164",
+      "user_id": "user-10",
+      "competency_code": "DV",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-10-SO-1790615561164",
+      "user_id": "user-10",
+      "competency_code": "SO",
+      "rating": 4,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-10-LE-1790615561164",
+      "user_id": "user-10",
+      "competency_code": "LE",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-11-DC-1790615561164",
+      "user_id": "user-11",
+      "competency_code": "DC",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-11-SD-1790615561164",
+      "user_id": "user-11",
+      "competency_code": "SD",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-11-DP-1790615561164",
+      "user_id": "user-11",
+      "competency_code": "DP",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-11-SA-1790615561164",
+      "user_id": "user-11",
+      "competency_code": "SA",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-11-DV-1790615561164",
+      "user_id": "user-11",
+      "competency_code": "DV",
+      "rating": 2,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-11-SO-1790615561164",
+      "user_id": "user-11",
+      "competency_code": "SO",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-11-LE-1790615561164",
+      "user_id": "user-11",
+      "competency_code": "LE",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-12-DC-1790615561164",
+      "user_id": "user-12",
+      "competency_code": "DC",
+      "rating": 4,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-12-SD-1790615561164",
+      "user_id": "user-12",
+      "competency_code": "SD",
+      "rating": 4,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-12-DP-1790615561164",
+      "user_id": "user-12",
+      "competency_code": "DP",
+      "rating": 4,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-12-SA-1790615561164",
+      "user_id": "user-12",
+      "competency_code": "SA",
+      "rating": 4,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-12-DV-1790615561164",
+      "user_id": "user-12",
+      "competency_code": "DV",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-12-SO-1790615561164",
+      "user_id": "user-12",
+      "competency_code": "SO",
+      "rating": 3,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    },
+    {
+      "id": "sr-user-12-LE-1790615561164",
+      "user_id": "user-12",
+      "competency_code": "LE",
+      "rating": 4,
+      "created_at": "2026-09-28T17:12:41.164Z"
+    }
+  ],
+  "courseCompletions": {
+    "user-01": [
+      "KK-107"
+    ],
+    "user-02": [
+      "KK-101"
+    ],
+    "user-03": [
+      "KK-110"
+    ],
+    "user-05": [
+      "KK-104"
+    ],
+    "user-08": [
+      "KK-107",
+      "KK-115"
+    ],
+    "user-12": [
+      "KK-111",
+      "KK-121"
+    ]
+  },
+  "lastDeltas": {}
+}
